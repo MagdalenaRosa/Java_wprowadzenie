@@ -1,2 +1,2 @@
 # Java_wprowadzenie
-Proste programy w Java 
+Java programy
